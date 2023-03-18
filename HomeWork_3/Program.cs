@@ -5,10 +5,10 @@
 // {
 //     if (number[0] == number[4] && number[1] == number[3])
 //     {
-//     Console.WriteLine($"{number} -> паллиндром");
+//     Console.WriteLine($"{number} -> палиндром");
 //     }
 //     else {
-//     Console.WriteLine($"{number} -> не паллиндром");
+//     Console.WriteLine($"{number} -> не палиндром");
 //      }
 // }
 // if (number.Length != 5) 
